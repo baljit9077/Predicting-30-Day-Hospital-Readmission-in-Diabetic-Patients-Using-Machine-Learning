@@ -355,3 +355,6 @@ XGBoost with class weighting achieved the best overall balance because it improv
 The most important predictors included age, admission source, medication variables, medication change, number of diagnoses, and total visits.
 Overall, this study shows that machine learning can support healthcare professionals by helping identify diabetic patients who may be at higher risk of early readmission. However, further improvement is needed before such a model could be used in real clinical practice.
 
+Detailed description of all the atrributes is provided in Table 1 Beata Strack, Jonathan P. DeShazo, Chris Gennings,  Juan L. Olmo, Sebastian Ventura,  Krzysztof J. Cios, and John N. Clore, “Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol. 2014, Article ID 781670, 11 pages, 2014.
+Uses the Research paper-> http://www.hindawi.com/journals/bmri/2014/781670/
+Dataset available at -> https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
